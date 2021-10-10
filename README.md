@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jubiware, call me Jubilee! any/all pronouns
+- 🙋‍♀️ I'm a 25 year old software developer, photographer, artist, musician and all around professional fool
+- 🐣 I've been programming on and off just about as long as I can remember. I started with BASIC when I was around 7
+- 👀 I’m interested in web scraping, statistics, games, education and executable art
+- 🌱 I’m currently learning how to program in Python and Kotlin
+- 💞️ I’m looking to collaborate on anything, really! I like to think I'm a quick learner and I'd be interested in lending my paws to just about anything
+- 📫 How to reach me: You can find me on twitter at @pileofanimals or email me at jubilee.e.hyde@gmail.com
